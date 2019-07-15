@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/alchemy/static/css/main.bf2001be.chunk.css",
-    "main.js": "/alchemy/static/js/main.d4eb1252.chunk.js",
-    "main.js.map": "/alchemy/static/js/main.d4eb1252.chunk.js.map",
-    "runtime~main.js": "/alchemy/static/js/runtime~main.aeeed989.js",
-    "runtime~main.js.map": "/alchemy/static/js/runtime~main.aeeed989.js.map",
-    "static/css/2.22a7d4ef.chunk.css": "/alchemy/static/css/2.22a7d4ef.chunk.css",
-    "static/js/2.0dffaea0.chunk.js": "/alchemy/static/js/2.0dffaea0.chunk.js",
-    "static/js/2.0dffaea0.chunk.js.map": "/alchemy/static/js/2.0dffaea0.chunk.js.map",
-    "index.html": "/alchemy/index.html",
-    "precache-manifest.d971da464a008e87a8e426f1e67a8475.js": "/alchemy/precache-manifest.d971da464a008e87a8e426f1e67a8475.js",
-    "service-worker.js": "/alchemy/service-worker.js",
-    "static/css/2.22a7d4ef.chunk.css.map": "/alchemy/static/css/2.22a7d4ef.chunk.css.map",
-    "static/css/main.bf2001be.chunk.css.map": "/alchemy/static/css/main.bf2001be.chunk.css.map"
+    "main.css": "/static/css/main.7ab88d58.chunk.css",
+    "main.js": "/static/js/main.b3802c1d.chunk.js",
+    "main.js.map": "/static/js/main.b3802c1d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.22a7d4ef.chunk.css": "/static/css/2.22a7d4ef.chunk.css",
+    "static/js/2.0dffaea0.chunk.js": "/static/js/2.0dffaea0.chunk.js",
+    "static/js/2.0dffaea0.chunk.js.map": "/static/js/2.0dffaea0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f50f9e6f04d3654bd7936d354529dc90.js": "/precache-manifest.f50f9e6f04d3654bd7936d354529dc90.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.22a7d4ef.chunk.css.map": "/static/css/2.22a7d4ef.chunk.css.map",
+    "static/css/main.7ab88d58.chunk.css.map": "/static/css/main.7ab88d58.chunk.css.map"
   }
 }
