@@ -26,7 +26,11 @@ class App extends Component {
             <div className="row">
               <div className="col-md m-1">
                 <h1 className="homefont"><b>Turn your self-service users into enterprise contracts.</b></h1>
+<<<<<<< HEAD
                 <h5 className="subfont">Alchemy provides sal3es teams with the right data at the right time to close bigger deals faster.</h5>
+=======
+                <h5 className="subfont">Alchemy provides sales teams with the right data at the right time to close bigger deals faster.</h5>
+>>>>>>> origin/master
                 <div className="formstyle">
                 <form className="form-inline formstyle" action="https://formspree.io/bryanshankman@gmail.com " method="POST">
                   <input type="email" name="_replyto" className="form-control mb-2 mr-sm-2" id="inlineFormInputName2" placeholder="Enter Email"/>              
